@@ -1,7 +1,7 @@
 import torch
 
 def leep(
-    model: torch.nn.module, 
+    model: torch.nn.Module, 
     data_loader: torch.utils.data.DataLoader, 
     number_of_target_labels: int,
     device: torch.device
