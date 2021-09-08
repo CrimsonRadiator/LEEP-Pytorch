@@ -6,7 +6,7 @@ This repository has a Pytorch implementaion of [LEEP: A New Measure to Evaluate 
 Code was tested with `torch==1.8.1`, but both newer and older versions should work alright.
 
 ## How to use it
-[Here]() is a Google Colab notebook presenting LEEP usage on CIFAR 10.
+[Here](https://colab.research.google.com/drive/11h5TTvRp3Gjw1Y7kO9S8kr2KsM64iBrm?usp=sharing) is a Google Colab notebook presenting LEEP usage on CIFAR 10.
 
 Function call for calculating LEEP from the above notebook:
 ```
